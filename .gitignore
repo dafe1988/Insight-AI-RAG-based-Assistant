@@ -17,6 +17,9 @@ output_*.ipynb
 # C extensions
 *.so
 
+# LibreOffice lock files
+.~lock.*#
+
 # Distribution / packaging
 .Python
 build/
