@@ -10,6 +10,7 @@
 pip-wheel-metadata/
 *.lock
 *.log
+**/automl_service_01022024/
 
 # Игнорировать большие промежуточные ноуты
 output_*.ipynb

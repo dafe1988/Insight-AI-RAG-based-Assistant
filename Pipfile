@@ -16,6 +16,8 @@ bs4 = "*"
 nltk = "*"
 scikit-learn = "*"
 wordcloud = "*"
+jupyter = "*"
+notebook = "*"
 
 [dev-packages]
 jupyter = "*"
